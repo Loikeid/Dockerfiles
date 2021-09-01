@@ -1,2 +1,2 @@
 # Dockerfiles
-Story my all docker images' build file.
+Store my all docker images' build file.
